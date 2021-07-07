@@ -1,0 +1,28 @@
+ h1,  h2,  h3,  h4,  h5,  h6 {
+    font-weight: 600!important;
+    line-height: 1.25!important;
+    margin-bottom: 16px!important;
+    margin-top: 24px!important;
+}
+
+ h1 {
+    font-size: 2em!important;
+}
+
+ h1,  h2 {
+    border-bottom: 1px solid #ccc!important;
+    padding-bottom: .3em!important;
+}
+
+ h2 {
+    font-size: 1.5em!important;
+}
+
+ blockquote,  details,  dl,  ol,  p,  pre,  table,  ul {
+    margin-bottom: 16px!important;
+    margin-top: 0!important;
+}
+
+ ol,  ul {
+    padding-left: 2em!important;
+}
